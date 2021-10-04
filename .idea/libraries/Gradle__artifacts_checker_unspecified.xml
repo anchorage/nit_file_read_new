@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:checker:unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/6168bc4fc083c6bcf4f2315023e0ce4e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/6168bc4fc083c6bcf4f2315023e0ce4e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/6168bc4fc083c6bcf4f2315023e0ce4e/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
